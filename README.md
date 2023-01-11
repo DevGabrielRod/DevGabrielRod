@@ -30,5 +30,5 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><!--
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>-->
-<img height="150" width="150" src="octocat-1673404225880.png"/>
-![Snake animation](https://github.com/DevGabrielRod/DevGabrielRod/blob/output/github-contribution-grid-snake.svg)
+<!--<img height="150" width="150" src="octocat-1673404225880.png"/>
+-->
