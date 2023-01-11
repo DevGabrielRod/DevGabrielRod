@@ -12,7 +12,7 @@
 
 
 ## Ferramentas And Tecnology
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" width="180" height="180" />
 
 ##Estatistics
 <div>
@@ -30,5 +30,5 @@
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><!--
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>-->
-<img height="40" width="40" src="octocat-1673404225880.png"/>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+<img height="150" width="150" src="octocat-1673404225880.png"/>
+![Snake animation](https://github.com/DevGabrielRod/DevGabrielRod/blob/output/github-contribution-grid-snake.svg)
